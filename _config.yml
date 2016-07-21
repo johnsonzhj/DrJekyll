@@ -1,11 +1,11 @@
 # Site settings
-title: Henry Jekyll
+title: Lab for behavioral economics and neuroeconomics
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 
-favicon: "/assets/img/temp_chem.jpg"
+favicon: "/assets/img/Qiang.jpg"
 
 port: 3000
 url: http://localhost:3000
@@ -35,7 +35,7 @@ scholar:
   join_strings:    true
 
   use_raw_bibtex_entry: false
-  bibtex_filters:
+  bibtex_filters:name
   - superscript
   - latex
   - HTML
